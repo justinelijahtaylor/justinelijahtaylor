@@ -1,4 +1,4 @@
-### Hi there 👋
+### Justin Taylor
 I'm a senior Computer Science / Mathematics / Statistics major at the University of South Carolina Honors College. I recently created a React App to let users concurrently listen to music across devices regardless of distance.
 <!--
 **justinelijahtaylor/justinelijahtaylor** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
