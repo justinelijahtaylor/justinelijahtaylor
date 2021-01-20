@@ -1,6 +1,7 @@
 ### Justin Taylor
 I'm a senior Computer Science / Mathematics / Statistics major at the University of South Carolina Honors College. 
-#I recently created a React App to let Spotify users concurrently listen to music across devices regardless of distance. You can find it at [Shareplay](https://shareplay.dev)
+
+I recently created a React App to let Spotify users concurrently listen to music across devices regardless of distance. You can find it at [Shareplay](https://shareplay.dev)
 <!--
 **justinelijahtaylor/justinelijahtaylor** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
