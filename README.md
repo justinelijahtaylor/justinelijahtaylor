@@ -1,5 +1,5 @@
 ### Justin Taylor
-I'm a senior Computer Science / Mathematics / Statistics major at the University of South Carolina Honors College. 
+Recent UofSC Alumni. Computer Science / Mathematics / Statistics
 
 I recently created a React App to let Spotify users concurrently listen to music across devices regardless of distance. You can find it at [Shareplay](https://shareplay.dev)
 <!--
