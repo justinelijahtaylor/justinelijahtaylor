@@ -1,7 +1,7 @@
 ### Justin Taylor
 Recent UofSC Alumni. Computer Science / Mathematics / Statistics
 
-I recently created a React App to let Spotify users concurrently listen to music across devices regardless of distance. You can find it at [Shareplay](https://shareplay.dev)
+Full-Stack Developer @ Botsplash
 <!--
 **justinelijahtaylor/justinelijahtaylor** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
