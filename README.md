@@ -1,6 +1,5 @@
 ### Justin Taylor
-Recent UofSC Alumni. Computer Science / Mathematics / Statistics
-
+UofSC 2021
 Full-Stack Developer @ Botsplash
 <!--
 **justinelijahtaylor/justinelijahtaylor** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
