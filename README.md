@@ -1,6 +1,4 @@
 # Justin Taylor
-
-## ==============================
 Development Lead @ Botsplash
 ----------------------------
 UofSC 2021 Currently working as Development Lead @ Botsplash
