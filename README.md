@@ -1,4 +1,5 @@
 Hi 👋 My name is Justin Taylor
+
 ==============================Development Lead @ Botsplash----------------------------UofSC 2021 Currently working as Development Lead @ Botsplash* 🌍  I'm based in Charlotte NC* ✉️  You can contact me at [justinelijahtaylor@gmail.com](mailto:justinelijahtaylor@gmail.com)
 
 ### Skills
