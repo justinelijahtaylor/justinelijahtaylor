@@ -1,5 +1,5 @@
 # Justin Taylor
-Development Lead @ Botsplash
+Software Engineer @ PayPal
 ----------------------------
 UofSC 2021 Currently working as a software engineer @ PayPal
 * 🌍  I'm based in Charlotte NC
